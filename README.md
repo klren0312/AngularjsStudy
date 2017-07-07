@@ -1,6 +1,17 @@
-# MyApp
-
+# Angular 学习代码（官网的英雄指南）
+>和官网的目录结构不一样，我直接使用的是 angular cli创建的项目
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
+
+
+## 注意
+官方文档中最后HTTP中有一个`angular-in-memory-web-api`需要自己安装
+```
+cnpm install angular-in-memory-web-api --save
+```
+当然我的学习代码已经安装过了，可以在package.json中查看。
+
+
 
 ## Development server
 
